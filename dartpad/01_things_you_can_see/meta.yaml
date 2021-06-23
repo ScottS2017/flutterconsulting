@@ -3,7 +3,4 @@ type: flutter # This should be either "dart" or "flutter".
 steps:
   - name: Exercise 1
     directory: excercise1
-    has_solution: true
-  - name: Exercise 2
-    directory: excercise2
-    has_solution: true
+    has_solution: false
