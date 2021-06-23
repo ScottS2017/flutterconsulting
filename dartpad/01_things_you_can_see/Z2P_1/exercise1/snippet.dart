@@ -27,6 +27,3 @@ class MyWidget extends StatelessWidget {
     return Text('Hello, World!', style: Theme.of(context).textTheme.headline4);
   }
 }
-
-
-http://dartpad.dev/workshops.html?webserver=https://flutterconsulting.web.app/Z2P_1/
