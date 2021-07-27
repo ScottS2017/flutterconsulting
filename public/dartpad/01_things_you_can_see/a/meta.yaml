@@ -1,6 +1,0 @@
-name: Z2P Things You Can See
-type: flutter # This should be either "dart" or "flutter".
-steps:
-  - name: Exercise 1
-    directory: exercise1
-    has_solution: false
