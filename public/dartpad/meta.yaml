@@ -3,4 +3,4 @@ type: flutter # Optional
 steps:
   - name: Test Workshop
     directory: test
-    has_solution: true
+    has_solution: false
